@@ -1,0 +1,8 @@
+.title {
+    background: linear-gradient(to bottom, var(--color-primary), var(--color-secondary));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2.5rem;
+    font-weight: 900;
+    text-transform: uppercase;
+}
